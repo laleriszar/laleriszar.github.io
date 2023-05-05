@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://laleriszar.github.io/sitemap.xml
